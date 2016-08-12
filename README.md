@@ -1,0 +1,4 @@
+# DragDropChangePosition
+Android控件拖放
+在RelativeLayout中对两个ImageView设置长按拖放
+当其中一张图片拖放到另一张图片位置时，两张图片改变大小和位置。
